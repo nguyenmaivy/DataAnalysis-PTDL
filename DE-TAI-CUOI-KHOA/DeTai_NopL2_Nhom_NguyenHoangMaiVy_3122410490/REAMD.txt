@@ -1,6 +1,0 @@
-Link Github: https://github.com/nguyenmaivy/DataAnalysis-PTDL
-
-Các vấn đề liên quan:
-- Vẫn còn thiếu Dashboard
-- Các mô hình phân loại cho dự đoán (Thực nghiệm 3) chưa được ổn lắm, nhóm em chưa biết cách xử lý làm sao cải thiện mô hình để Accuracy tốt
-- Phần sử dụng K-Means + DBSCAN cho phân cụm (Thực nghiệm 1), hồi quy + Random Forest cho feature importance (Thực nghiệm 2) nhóm em đã làm nhưng không biết đã đi đúng hướng chưa nữa ạ
